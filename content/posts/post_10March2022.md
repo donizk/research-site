@@ -203,6 +203,8 @@ Obviously, there are more things that are possible using pandas, but this is jus
 
 Include some of the relevant resources (links, articles, etc.) that you used to write in your tutorial.
 
-	- [Official Documentation for Pandas](https://pandas.pydata.org/)
-	- [Official Documentation for NumPy](https://numpy.org/install/)
-	- [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas)
+[Official Documentation for Pandas](https://pandas.pydata.org/)
+
+[Official Documentation for NumPy](https://numpy.org/install/)
+
+[W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas)
