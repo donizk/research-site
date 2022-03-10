@@ -2,7 +2,7 @@
 title: "Pandas Tutorial"
 description: "overview of how to install and use the pandas Python package for data analysis"
 date: 2022-03-09T21:45:28-05:00
-draft: true
+draft: false
 tags: [tutorials, Python]
 ---
 
