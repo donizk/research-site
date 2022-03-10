@@ -2,3 +2,19 @@ baseURL = 'https://kyries-notebook.netlify.app/'
 languageCode = 'en-us'
 title = 'My Research Journal'
 theme = "archie"
+copyright = "© 2022 | Kyrie Doniz"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/kyriedoniz/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/kyriedoniz/"
+
+[[params.social]]
+name = "Personal Site"
+icon = "link"
+url = "https://kyriedoniz.netlify.app/"
