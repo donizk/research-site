@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: ""
+description: "an introduction to my research interests"
 date: 2022-03-10T04:53:07-05:00
 draft: false
 tags: [data-analysis, software-dev, webdev]
