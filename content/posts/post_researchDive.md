@@ -2,7 +2,7 @@
 title: "A deep dive into Data Analytics"
 description: ""
 date: 2022-03-31T23:39:05-04:00
-draft: true
+draft: false
 tags: [data-analysis, Python]
 ---
 
