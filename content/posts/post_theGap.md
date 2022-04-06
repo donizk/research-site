@@ -1,11 +1,10 @@
 ---
 title: "My Knowledge Gap"
+description: "a summary of what I have learned and where I am at :)"
 date: 2022-04-06T00:49:46-04:00
 draft: false
 tags: [data-analysis, economics, econometrics, statistics]
 ---
-
-My topic for my knowledge gap is: Fusion Analysis
 
 ### Summarizing my Knowledge Gap
 
