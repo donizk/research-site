@@ -5,7 +5,9 @@ draft: false
 tags: [data-analysis, economics, econometrics, statistics]
 ---
 
-## Summarizing my Knowledge Gap
+My topic for my knowledge gap is: Fusion Analysis
+
+### Summarizing my Knowledge Gap
 
 The knowledge gap that emerges from my chosen area of research is the lack of use of big data analytics methodology and practices on economic data. More specifically, I was looking for studies of an interdisciplinary nature but found that only a few of the articles I encountered mentioned *fusion analytics*, which is to combine machine-based methods that are present in Computer Science and the explanatory empiricism involving advanced Econometrics and Statistics. 
 
