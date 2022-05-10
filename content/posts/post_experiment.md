@@ -2,7 +2,7 @@
 title: "Experiment"
 description: "a summary of my experiment and its results"
 date: 2022-05-09T22:26:42-04:00
-draft: true
+draft: false
 tags: [data-analysis, R]
 ---
 
