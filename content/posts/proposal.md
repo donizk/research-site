@@ -5,6 +5,18 @@ date: 2022-05-17T00:41:02-04:00
 draft: false
 tag: [R, data-analysis, fusion-analysis]
 ---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Literature](#literature)
+3. [Methodology and Prototype](#methodology-and-prototype)
+4. [Experimentation and Results](#experimentation-and-results)
+5. [Conclusion](#conclusion)
+6. [References](#references)
+
+---
+
 #### Introduction
 
 In my proposed project, I would like to research and study the impact that income (socioeconomic status) has on education (access to education and educational attainment). This is a topic of interest to me because having experienced the benefits of a private school education all of my life, I was able to have an educational journey beyond that of what would've been my reality in the public school system I was zoned to. These private schools I attended provided me with classes and 1-on-1 attention I would've otherwise never have had in public school. Knowing from first-hand experience how income can impact education, I think that this is a worthwhile issue to delve into. Additionally, I think this type of research can have an impact in that there can be policy that results from this which could work to increase the accessibility and quality of education to low income individuals.
